@@ -1,5 +1,7 @@
 # SERP API
 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/serp-api) 
+
 This repository provides two approaches for collecting Search Engine Results Page (SERP) data:
 1. A free, small-scale Google scraper suitable for basic data collection
 2. An enterprise-grade API solution for large-scale, real-time data collection from major search engines
@@ -33,7 +35,7 @@ This repository provides two approaches for collecting Search Engine Results Pag
 - [Support & Resources](#support--resources)
 
 ## Free SERP Scraper
-The free scraper allows small-scale Google SERP data collection.
+[The free scraper](https://github.com/luminati-io/serp-api/tree/main/free_serp_scraper) allows small-scale Google SERP data collection.
 
 <img width="700" alt="google-search" src="https://github.com/user-attachments/assets/9e27ee5c-369b-407f-9e3d-ad65375b48e6" />
 
