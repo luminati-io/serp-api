@@ -185,7 +185,7 @@ Bright Data SERP API lets you tailor requests for multiple search engines—incl
 > For a complete list and detailed explanation of all query parameters, please refer to the [Detailed Query Parameters Documentation](https://docs.brightdata.com/scraping-automation/serp-api/query-parameters).
 
 ### Google
-SERP API supports various Google services, including **Search**, **Maps**, **Trends**, **Reviews**, **Lens**, **Hotels**, and **Flights**. Below are key configuration parameters for each service:
+SERP API supports various Google services, including [**Search**](https://brightdata.com/products/serp-api/google-search), [**Maps**](https://brightdata.com/products/serp-api/google-search/maps), [**Trends**](https://brightdata.com/products/serp-api/google-search/trends), [**Reviews**](https://brightdata.com/products/serp-api/google-search/reviews), **Lens**, [**Hotels**](https://brightdata.com/products/serp-api/google-search/hotels), and [**Flights**](https://brightdata.com/products/web-scraper/google-flights). Below are key configuration parameters for each service:
 
 #### 1. Google Search
 Customize your search results with options for localization, search type, pagination, geolocation, and device targeting.
@@ -571,4 +571,5 @@ Learn more: [Multiple Queries Guide](https://docs.brightdata.com/scraping-autom
 - **Documentation:** [SERP API Docs](https://docs.brightdata.com/scraping-automation/serp-api/)
 - **Query Parameters Documentation:** [Detailed Query Parameters Docs](https://docs.brightdata.com/scraping-automation/serp-api/query-parameters)
 - **Other Guides:** [Web Unlocker API](https://github.com/luminati-io/web-unlocker-api), [Google Maps](https://github.com/luminati-io/Google-Maps-Scraper), [Google News](https://github.com/luminati-io/Google-News-Scraper)
+- **Interesting Read:** [Best SERP APIs](https://brightdata.com/blog/web-data/best-serp-apis), [Build a RAG Chatbot with SERP API](https://brightdata.com/blog/web-data/build-a-rag-chatbot), [Scrape Google Search with Python](https://brightdata.com/blog/web-data/scraping-google-with-python)
 - **Technical Support:** [Contact Us](mailto:support@brightdata.com)
