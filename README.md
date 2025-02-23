@@ -88,9 +88,9 @@ Google implements several anti-scraping measures:
 ### Getting Started
 
 1. **Prerequisites:**
-    - Create a [Bright Data account](https://brightdata.com/) (New users receive a $5 credit)
+    - Create a [Bright Data account](https://brightdata.com/)
     - Obtain your [API key](https://docs.brightdata.com/general/account/api-token)
-2. **Setting Up SERP API:** Follow the [step-by-step guide](https://github.com/triposat/SERP-API/blob/main/setup_serp_api.md) to set up the new SERP API in your Bright Data account.
+2. **Setting Up SERP API:** Follow the [step-by-step guide](https://github.com/luminati-io/SERP-API/blob/main/setup_serp_api.md) to set up the new SERP API in your Bright Data account.
 3. **Implementation Methods:**
     1. Direct API Access
     2. Native Proxy-Based Access
@@ -133,7 +133,7 @@ with open("serp_direct_api.json", "w") as file:
 print("Response saved to 'serp_direct_api.json'.")
 ```
 
-👉 See the [full JSON output](https://github.com/triposat/SERP-API/blob/main/serp_api_outputs/serp_direct_api.json)
+👉 See the [full JSON output](https://github.com/luminati-io/SERP-API/blob/main/serp_api_outputs/serp_direct_api.json)
 
 **Note**: Use `brd_json=1` for parsed JSON or `brd_json=html` for parsed JSON + full nested HTML.
 
@@ -175,7 +175,7 @@ with open("serp_native_proxy.html", "w", encoding="utf-8") as file:
 print("Response saved to 'serp_native_proxy.html'.")
 ```
 
-👉 See the [full HTML output](https://github.com/triposat/SERP-API/blob/main/serp_api_outputs/serp_native_proxy.html)
+👉 See the [full HTML output](https://github.com/luminati-io/SERP-API/blob/main/serp_api_outputs/serp_native_proxy.html)
 
 **SSL Certificate**: Load Bright Data’s SSL certificate for production. Learn more: [SSL Certificate Guide](https://docs.brightdata.com/general/account/ssl-certificate)
 
