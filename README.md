@@ -37,7 +37,7 @@ This repository provides two approaches for collecting Search Engine Results Pag
 ## Free SERP Scraper
 [The free scraper](https://github.com/luminati-io/serp-api/tree/main/free_serp_scraper) allows small-scale Google SERP data collection.
 
-<img width="700" alt="google-search" src="https://github.com/user-attachments/assets/9e27ee5c-369b-407f-9e3d-ad65375b48e6" />
+<img width="700" alt="google-search" src="https://github.com/luminati-io/serp-api/blob/main/Images/bright%20data%20products%20serp.png" />
 
 
 ### Input Parameters
@@ -57,7 +57,7 @@ with open("search_terms.txt", "r", encoding="utf-8") as file:
 ```
 
 ### Sample Output
-<img width="700" alt="google-serp-data" src="https://github.com/user-attachments/assets/cf187ff9-6a09-4d1a-95c1-5095c3f53f98" />
+<img width="700" alt="google-serp-data" src="https://github.com/luminati-io/serp-api/blob/main/Images/samle%20output%20serp.png" />
 
 
 ## Limitations
