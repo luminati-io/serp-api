@@ -353,7 +353,7 @@ curl \
 
 
 ### Bing
-Configure Bing queries with options for localization, geo-targeting, pagination, device and browser targeting, and output formats.
+Configure Bing queries with options for localization, geo-targeting, pagination, device and browser targeting, and output formats. Check out the [dedicated Bing API](https://brightdata.com/products/serp-api/bing-search).
 
 **Localization**
 
@@ -438,7 +438,7 @@ curl \
 ```
 
 ### Yandex
-Briefly configure Yandex queries with parameters for localization, pagination, time range, and device/browser targeting.
+Briefly configure Yandex queries with parameters for localization, pagination, time range, and device/browser targeting. Check out the [dedicated Yandex API](https://brightdata.com/products/serp-api/yandex-search).
 
 **Localization**
 - `lr`: Specifies the region (e.g., `lr=84` for the USA).
@@ -488,7 +488,7 @@ curl \
 ```
 
 ### DuckDuckGo
-A quick overview of DuckDuckGo search customization using localization, safe search, time range, and device/browser targeting.
+A quick overview of DuckDuckGo search customization using localization, safe search, time range, and device/browser targeting. Check out the [dedicated DuckDuckGo API](https://brightdata.com/products/serp-api/duckduckgo-search).
 
 **Localization**
 
